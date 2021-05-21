@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Convective Heat Engine"
+theme = "book"
+
+[params]
+BookMenuBundle = "/menu"
+BookSearch = false
