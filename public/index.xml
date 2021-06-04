@@ -13,7 +13,7 @@
       
       <guid>http://example.org/about/</guid>
       <description>Jason Delport #  Founder #  Email
-Gavin Palmer #  Information Technology #  LinkedIn</description>
+Damien Delport #  Co-Founder #  Gavin Palmer #  Information Technology #  LinkedIn</description>
     </item>
     
     <item>
@@ -53,6 +53,40 @@ This trend, coupled with a summer Surface Urban Heat Island (SUHI) effect of 1.9
       <description>Appendix II - Relevant Atmospheric Processes #  Heat flux through the atmosphere as summarized in Kiehl, Trenberth (2009)
 Surface heat is transported vertically by the following means: reflection, thermals, evapotranspiration and net difference between surface radiation and back radiation.
 The direct surface heat transfer processes relevant to this proposal are thermals and evapotranspiration. Back radiation can be affected over a longer timeframe by the improvements to the efficiency of photosynthetic processes as a result of the deployment of the technology proposed herein.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/proposal/description/appendix-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/proposal/description/appendix-3/</guid>
+      <description>Appendix III – Case Study Calculations #  Altitude – Sea Level
+Nominal Height of Structure – 1000m
+Height of HXT1 – 1000m (placed externally on structure)
+Height of remaining HXT’s – 750m (placed internally in CUTs)
+Hexagonal CUTs, Distance across Flats – 31.4m
+Surface Air Condition – 25°C &amp;amp; 55% Relative Humidity &amp;amp; 101.325 kPa
+CALCULATION 1 – Air Temperatures and moisture content at top and bottom heat exchangers #   Use dry lapse rate formula from Appendix II to calculate HXT1 temperature at 1000m Transfer this to HXB1 air temperature (assume 100% heat exchange efficiency) Use this air temperature to determine moisture content of air at bottom of CUT 1 from ASHRAE Chart #1 Subtract this moisture content from ambient air moisture content to determine condensate production rate at HXB1 Calculate air temperature just below HXT2 using formula for fully saturated lapse rate from Appendix II Use this air temperature to determine moisture content of air at HXT2 of Stage 1from ASHRAE Chart #5 Use this moisture content to subtract from moisture content at bottom of Stage 1to determine condensate production from mist/cloud formation in Stage 1.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/proposal/description/appendix-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/proposal/description/appendix-4/</guid>
+      <description>Appendix IV - Power Generation #  The majority of central electrical power generation is done by thermal plant, where heat energy is converted to electric power. The heat energy is generally used to raise the temperature of a working fluid (typically steam), and consequently its pressure. This high-pressure working fluid is then passed through a turbine coupled to an electrical generator. The energy available to rotate the electrical generator is a function of the turbine input and output pressures of the working fluid.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/proposal/description/appendix-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/proposal/description/appendix-5/</guid>
+      <description>Appendix V – Global Warming / Climate Change Implication #  The intermittency of wind and solar power plants is well known. Other deleterious effects include night time warming downstream from wind farms and the solar power heat island effect.
+The proposed CHE, in contrast, offers potentially stable power delivery as well as continuous cooling as a result of greatly increased surface heat transport up the atmospheric column regardless of time of day.</description>
     </item>
     
     <item>

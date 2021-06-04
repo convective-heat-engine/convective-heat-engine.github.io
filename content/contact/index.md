@@ -1,1 +1,1 @@
-[Discord](https://discord.gg/ez7Yt4evM2)
+[Discord](https://discord.gg/kT5tmvMvmm)
