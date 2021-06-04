@@ -2,7 +2,7 @@
 ## Founder
 [Email](jasondelport8@gmail.com)
 
-# Damien Delport
+# Dominic Delport
 ## Co-Founder
 
 # Gavin Palmer
