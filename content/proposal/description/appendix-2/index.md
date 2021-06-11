@@ -1,6 +1,6 @@
 # Appendix II - Relevant Atmospheric Processes
 
-Heat flux through the atmosphere as summarized in Kiehl, Trenberth (2009)
+Heat flux through the atmosphere as summarized in Kiehl, Trenberth (2009)[{{< katex >}}{[^6]}{{< /katex >}}](/proposal/description/appendix-2/#6-kiehl-trenberth-2009)
 
 ![Global Energy Flows](/images/global-energy-flows.png)
 
@@ -45,8 +45,14 @@ Incident solar radiation not only directly warms the surface, it also acts to dr
 
 ### C) The Atmosphere as a Heat Engine
 
-“The atmosphere acts as a heat engine that converts internal energy into kinetic energy through a combination of warm, moist air expansion and cold, dry air compression.  This is the means by which the wind that drives wind turbines is generated and the water that fills hydro-electric dams is moved from sea level to high altitude reservoirs.
+“The atmosphere acts as a heat engine that converts internal energy into kinetic energy through a combination of warm, moist air expansion and cold, dry air compression[{{< katex >}}{[^7]}{{< /katex >}}](/proposal/description/appendix-2/#7-sources-and-sinks-of-available-potential-energy).  This is the means by which the wind that drives wind turbines is generated and the water that fills hydro-electric dams is moved from sea level to high altitude reservoirs.
 
 These processes are harnessed in a purpose designed structure, with the addition of convective heat transfer in waterthat relocates surface heat to a desired altitude by means of a hydraulic circuit that utilizing the natural atmospheric temperature profile (see __Fig. 2__).  The hydronic heat is transferred back to the air at the desired altitude within the structure, resulting in this warmed air rising due to convection.  The structure is designed such that the buoyant volume of this warmed air is able to draw up heavy/cooled air from the structure below it.  The work done by the upper warmed air lifting up the lower cooled air results in further cooling of the lower air parcel.  
 
 Thus, convective heat transfer in water, which is able to relocate surface atmospheric heat which is not being transferred convectively in the air, coupled with convective atmospheric uplift in a flue-like enclosure provides the basic elements to constitute a Convective Heat Engine that performs atmospheric cooling which can be utilized to provide the useful services outlined in this proposal.
+
+### [6] Kiehl, Trenberth 2009
+https://journals.ametsoc.org/bams/article/90/3/311/59479/Earth-s-Global-Energy-Budget
+
+### [7] Sources and Sinks of Available Potential Energy
+https://journals.ametsoc.org/jas/article/64/7/2627/26545/Sources-and-Sinks-of-Available-Potential-Energy-in
