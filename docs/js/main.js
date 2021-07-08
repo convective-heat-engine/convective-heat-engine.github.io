@@ -1,8 +1,8 @@
 const startTime = new Date();
-console.log('start time', startTime);
+// console.log('start time', startTime);
 
 updateVimeo();
-updateFigures();
+// updateFigures();
 
 function updateVimeo() {
     const iframe = document.getElementsByTagName('iframe');
