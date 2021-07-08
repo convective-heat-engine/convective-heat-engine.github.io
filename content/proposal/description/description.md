@@ -8,7 +8,7 @@ A vertical column of water instantiated in the atmosphere thermally separates in
 
 Two columns of water in the atmosphere, joined top and bottom with heat exchangers (HX) that allow for heat transfer from the warm water to the relatively cooler air at the top and from the warmer air to the cooler water at the bottom will establish a self-sustaining thermo-siphon flow in the hydraulic circuit. This operates on the same principle as pump-less solar hot water systems with thermo-siphon.  Warm water is more buoyant than cold water and rises, and conversely the less buoyant cold water sinks – this sinking/rising of cool/warm water in the opposite legs of the circuit drives the auto-circulation.  This is depicted in __Fig. 2__.  At large scale, under standard atmospheric conditions, this flow may be slower than desired, but low grade(up to say 50°C) geothermal heat can be added the hydraulic circuit to speed up the flow rate as well as overcome frictional drag in the HXs.  This additional heat will add extra energy for convective uplift, which can be moderated by reducing the Convective Volume (see below).
 
-![Figure 2](/images/figure2_animated.gif)
+![Figure 2](/images/figure2_animation.gif)
 
 ### The Innovative Step
 
