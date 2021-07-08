@@ -12,7 +12,3 @@ bookToc: false
 - Runs on waste heat energy from power plants.
 
 {{< vimeo "572525807?autoplay=1&loop=1" >}}
-
-{{< figure src="https://www.dropbox.com/s/xttn91go9zo6vio/che_overview_1.gif?raw=1" >}}
-
-{{< figure src="https://www.dropbox.com/s/nhrrvybpvxvtkof/che_overview_2.gif?raw=1" >}}
