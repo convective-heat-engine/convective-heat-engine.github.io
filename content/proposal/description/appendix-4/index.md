@@ -34,3 +34,5 @@ To summarize, the power plant is proposed to run as follows:
 
 ### [8] Ocean Temperature Energy Conversion
 https://www.scientificamerican.com/article/hawaii-first-to-harness-deep-ocean-temperatures-for-power/
+
+{{< footernav  backText="Appendix III" backHref="/proposal/description/appendix-3" nextText="Appendix V" nextHref="/proposal/description/appendix-5" >}}

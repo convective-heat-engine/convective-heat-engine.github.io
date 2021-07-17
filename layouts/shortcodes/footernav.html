@@ -1,0 +1,10 @@
+
+<div style="display: flex; border-top: 1px solid black; border-bottom: 1px solid black; padding: 20px 0;">
+    {{ if .Get "backText" }}
+    <a href="{{ .Get "backHref" }}">< {{ .Get "backText" }}</a>
+    {{ end }}
+    <div style="flex: auto;"></div>
+    {{ if .Get "nextText" }}
+    <a style="margin-left: auto;" href="{{ .Get "nextHref" }}">{{ .Get "nextText" }} ></a>
+    {{ end }}
+</div>

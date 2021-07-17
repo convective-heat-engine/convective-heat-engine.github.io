@@ -16,3 +16,5 @@ This is done by means of a specifically designed structure that harnesses the he
 
 ### [2] Sources and Sinks of Available Potential Energy
 https://journals.ametsoc.org/jas/article/64/7/2627/26545/Sources-and-Sinks-of-Available-Potential-Energy-in
+
+{{< footernav  backText="Introduction" backHref="/proposal/introduction" nextText="Description" nextHref="/proposal/description" >}}

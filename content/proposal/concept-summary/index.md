@@ -15,3 +15,5 @@ This rising air has the ability to do work, since it is rising upwards in a grav
 An additional output of this arrangement is very cold air, which can be utilized for condensing purposes in thermal power generating plants.  It is well established that the lower the condensing temperature in thermal power plant, the more efficiently that plant operates.  This condensing function is normally performed by cooling towers, whose condensing temperatures are a function of the daily ambient temperature fluctuations.  The temperature of the output air of the CHE can be decreased by increasing the number of flue-like enclosures.  An example of renewable power generation benefiting from the CHE is presented.
 
 Finally, it is shown that the outer perimeter of the CHE serves as an ideal location for accommodation units, turning the CHE into the ideal sustainable city that produces surplus water and power and vents surface heat – potentially the ideal answer to Anthropogenic Climate Change.
+
+{{< footernav  nextText="Introduction" nextHref="/proposal/introduction" >}}

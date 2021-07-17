@@ -56,3 +56,5 @@ https://journals.ametsoc.org/bams/article/90/3/311/59479/Earth-s-Global-Energy-B
 
 ### [7] Sources and Sinks of Available Potential Energy
 https://journals.ametsoc.org/jas/article/64/7/2627/26545/Sources-and-Sinks-of-Available-Potential-Energy-in
+
+{{< footernav  backText="Appendix I" backHref="/proposal/description/appendix-1" nextText="Appendix III" nextHref="/proposal/description/appendix-3" >}}

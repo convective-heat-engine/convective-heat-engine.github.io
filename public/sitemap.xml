@@ -21,6 +21,10 @@
   </url>
   
   <url>
+    <loc>http://example.org/proposal/description/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/proposal/description/appendix-1/</loc>
   </url>
   
@@ -41,7 +45,7 @@
   </url>
   
   <url>
-    <loc>http://example.org/proposal/description/description/</loc>
+    <loc>http://example.org/proposal/description/</loc>
   </url>
   
   <url>

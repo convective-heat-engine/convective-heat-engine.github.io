@@ -23,3 +23,5 @@ https://phys.org/news/2016-11-solar-island-effect-large-scale-power.html
 
 ### [11] Anthropogenic and Natural Radiative Forcing
 https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter08_FINAL.pdf
+
+{{< footernav  backText="Appendix IV" backHref="/proposal/description/appendix-4" >}}

@@ -14,3 +14,5 @@ The innovation detailed in this proposal has been provisionally registered with 
 
 ### [1] UN World Urbanization Prospects 2018
 https://population.un.org/wup/Publications/Files/WUP2018-Highlights.pdf
+
+{{< footernav  backText="Concept Summary" backHref="/proposal/concept-summary" nextText="Background" nextHref="/proposal/background" >}}

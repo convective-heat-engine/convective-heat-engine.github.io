@@ -1,41 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overview on Convective Heat Engine</title>
-    <link>http://example.org/</link>
-    <description>Recent content in Overview on Convective Heat Engine</description>
+    <title>Convective Heat Engine</title>
+    <link>http://example.org/proposal/description/</link>
+    <description>Recent content on Convective Heat Engine</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://example.org/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/about/</guid>
-      <description>Jason Delport #  Founder #  Email
-Dominic Delport #  Co-Founder #  Gavin Palmer #  Information Technology #  LinkedIn
-Michael Heron #  Concept Demonstration #  Carl Niezen #  Animations #  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://example.org/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/contact/</guid>
-      <description>Come get in touch on our public chat server:
-Discord</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://example.org/proposal/background/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/proposal/background/</guid>
-      <description>Background #  If the problem resides in changes to the atmosphere, a lasting solution must be directed towards this source. The primary driver of climate change is deemed to be increases in CO2 concentrations in the atmosphere. This leads to a reduction in infra-red (IR) radiation to space, resulting in a slight warming of the atmosphere. This warming leads to the atmosphere having an increased capacity to hold water vapor, which is a more potent greenhouse gas (GHG) than CO2, amplifying the problem of slowing the IR radiation of surface heat.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://example.org/proposal/description/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://example.org/proposal/description/appendix-1/</link>
@@ -99,24 +69,6 @@ The proposed CHE, in contrast, offers potentially stable power delivery as well 
       <guid>http://example.org/proposal/description/</guid>
       <description>Description of the Convective Head Engine (CHE) #  Convection in Water (Incompressible Fluid) v Convection in Air (Compressible Fluid)
 A vertical column of water instantiated in the atmosphere thermally separates in the opposite direction to the atmosphere. Buoyancy forces result in the warmest water rising to the top of the column and coldest sinking to the bottom, whereas the atmosphere has the warmest air at the surface and coldest air at altitude.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://example.org/proposal/introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/proposal/introduction/</guid>
-      <description>Introduction #  The climate /energy nexus has received much attention in recent decades. The concern has hinged around a rise in measured atmospheric CO2 levels that has coincided with a rise in average atmospheric temperatures. Concomitant with these trends has been an increase in urbanization, with some 55%  \({[^1]}\)   of the global population living in urban environments. Urban environments are subject to the urban heat island effect, which means that the majority of the world’s population is directly experiencing local warming greater than global averages.</description>
-    </item>
-    
-    <item>
-      <title>Concept Summary</title>
-      <link>http://example.org/proposal/concept-summary/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/proposal/concept-summary/</guid>
-      <description>Concept Summary #  A new solution to the problem of Anthropogenic Climate Change (ACC) is presented. A tall structure, called a Convective Heat Engine (CHE), is conceptualized that vertically transfers surface heat by means of convection through a column of water. The temperature profile of the atmospheric column when in thermal equilibrium – that is, when no atmospheric convection is occurring– is such that the temperature of the atmosphere decreases with altitude.</description>
     </item>
     
   </channel>

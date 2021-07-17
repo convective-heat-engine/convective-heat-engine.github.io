@@ -45,3 +45,5 @@ Surface Air Condition – 25°C & 55% Relative Humidity & 101.325 kPa
 2. Use the Moody Chart and Darcy-Weisbach equation to determine the equilibrium flow velocity associated with the pressure drop in 1.
 3. Calculate the rate of Heat Convection from 2, knowing temperature differential.
 4. Note that pressure drop across the HXs was ignored since the authors had no data for same.  A proper study would be required to add additional height to overcome actual pressure drop across the HXs.
+
+{{< footernav  backText="Appendix II" backHref="/proposal/description/appendix-2" nextText="Appendix IV" nextHref="/proposal/description/appendix-4" >}}

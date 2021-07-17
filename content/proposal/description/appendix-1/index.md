@@ -35,3 +35,5 @@ https://population.un.org/wup/Publications/Files/WUP2018-Highlights.pdf
 
 ### [5] Vertical City
 https://verticalcity.org/index.html
+
+{{< footernav  backText="Description" backHref="/proposal/description" nextText="Appendix II" nextHref="/proposal/description/appendix-2" >}}
