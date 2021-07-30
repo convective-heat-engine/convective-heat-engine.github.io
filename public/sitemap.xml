@@ -53,6 +53,16 @@
   </url>
   
   <url>
+    <loc>http://example.org/simple-explanation/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/simple-principles/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://example.org/categories/</loc>
   </url>
   

@@ -1,5 +1,7 @@
 # Appendix III – Case Study Calculations
 
+The following lists the assumptions built into the Case Study modeled in an Excel spreadsheet (not included here), as well as the logic used in developing the model calculations.
+
 Altitude – Sea Level
 
 Nominal Height of Structure – 1000m

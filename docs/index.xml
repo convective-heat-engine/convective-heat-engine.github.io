@@ -63,13 +63,12 @@ The direct surface heat transfer processes relevant to this proposal are thermal
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/proposal/description/appendix-3/</guid>
-      <description>Appendix III – Case Study Calculations #  Altitude – Sea Level
+      <description>Appendix III – Case Study Calculations #  The following lists the assumptions built into the Case Study modeled in an Excel spreadsheet (not included here), as well as the logic used in developing the model calculations.
+Altitude – Sea Level
 Nominal Height of Structure – 1000m
 Height of HXT1 – 1000m (placed externally on structure)
 Height of remaining HXT’s – 750m (placed internally in CUTs)
-Hexagonal CUTs, Distance across Flats – 31.4m
-Surface Air Condition – 25°C &amp;amp; 55% Relative Humidity &amp;amp; 101.325 kPa
-CALCULATION 1 – Air Temperatures and moisture content at top and bottom heat exchangers #   Use dry lapse rate formula from Appendix II to calculate HXT1 temperature at 1000m Transfer this to HXB1 air temperature (assume 100% heat exchange efficiency) Use this air temperature to determine moisture content of air at bottom of CUT 1 from ASHRAE Chart #1 Subtract this moisture content from ambient air moisture content to determine condensate production rate at HXB1 Calculate air temperature just below HXT2 using formula for fully saturated lapse rate from Appendix II Use this air temperature to determine moisture content of air at HXT2 of Stage 1from ASHRAE Chart #5 Use this moisture content to subtract from moisture content at bottom of Stage 1to determine condensate production from mist/cloud formation in Stage 1.</description>
+Hexagonal CUTs, Distance across Flats – 31.</description>
     </item>
     
     <item>
@@ -108,6 +107,29 @@ A vertical column of water instantiated in the atmosphere thermally separates in
       
       <guid>http://example.org/proposal/introduction/</guid>
       <description>Introduction #  The climate /energy nexus has received much attention in recent decades. The concern has hinged around a rise in measured atmospheric CO2 levels that has coincided with a rise in average atmospheric temperatures. Concomitant with these trends has been an increase in urbanization, with some 55%  \({[^1]}\)   of the global population living in urban environments. Urban environments are subject to the urban heat island effect, which means that the majority of the world’s population is directly experiencing local warming greater than global averages.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/simple-explanation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/simple-explanation/</guid>
+      <description>Basic propositions that follow from high school physics:
+ Warmed air expands due to an increase in its pressure. Air that expands has a lower density than the surrounding un-warmed air and rises / ascends Expanding air cools down Cooled air contracts due to a decrease in it pressure. Air that contracts has a higher density than the surrounding un-cooled air and sinks / descends. Contracting air warms up In the atmosphere, the air at ground level has a higher pressure than the air at altitude.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/simple-principles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/simple-principles/</guid>
+      <description>Carl’s Logo or landing page Gif
+In order to gain an understanding, we have described the individual scientific principles and naturally occurring phenomenon’s in simplified terms that all work together to become the CHE.
+Click on the links below to navigate to each topic of interest.
+(make all topic titles below into page links)
+ Heat transfer principles What is a heat exchanger (Hx) Thermosyphon Lapse rate of air (Pressure temperature relationship of a gas) Dew point of moisture in air Convection Geothermal heat Power generation Terra forming a desert Sustainable environmentally friendly human habitation  All the text below is under construction.</description>
     </item>
     
     <item>
