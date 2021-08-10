@@ -44,6 +44,6 @@ The estimated capital cost of a working prototype greatly exceeds the means of t
 
 Thank you for taking the time to read our introduction to the Convective Heat Engine.
 
-We invite you to [learn more](/proposal/concept-summary) about the CHE.  
+We invite you to [learn more about the CHE](/simple-explanation).  
 
 If you have question please [get in touch](/contact).
