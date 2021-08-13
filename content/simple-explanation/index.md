@@ -7,7 +7,7 @@
 3. Rising air pockets generally cool at the same rate as the surrounding air cools with altitude
 4. Warmed water that rises does **not** cool like air
 5. Water can be used as a heat transfer medium
-6. Using water, cooler temperatures at altitude can be transferred downard while warmer surface air temperatures can be trasferred upward
+6. Using water, cooler temperatures at altitude can be transferred downard while warmer surface air temperatures can be transferred upward
 7. Geothermal heat temperatures warmer than the surface air temperatures are available by digging into the earth's surface
 
 In order to understand how the CHE works, we have to start from something that is generally well understood – the Hot Air Balloon.  It consists of the following key components:
