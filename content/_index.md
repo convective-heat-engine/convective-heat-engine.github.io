@@ -16,7 +16,7 @@ bookToc: true
 
 The purpose of this website is to introduce a new technology called a Convective Heat Engine (CHE).  This technology is in the conceptual stage of development.
 
-The CHE performs several functions, both directly through surface heat removal and power generation efficiency as well as indirectly by allowing plants to be grown in areas that have otherwise been unsuitable due to the lack of a fresh water supply that was not economically viable, such as a desert or areas prone to drought.
+The CHE performs several functions, both directly through surface heat removal and power generation efficiency as well as indirectly by allowing plants to be grown in areas that have otherwise been unsuitable, such as a desert or areas prone to drought, due to the lack of an economically viable fresh water supply.
 
 The CHE continuously moves Earth’s surface heat upwards through the atmosphere. As a result of this warm surface air being moved to a higher altitude, the moisture contained in it is forced to condense into larger droplets and so the CHE behaves like a continuously raining cumulonimbus cloud, formed and maintained in a series of vertical towers.  The cold air flowing to the top of the tower provides a low temperature heat sink which can be used as an ultra-efficient cooling tower to improve power generation efficiency.
 
@@ -38,7 +38,7 @@ The major benefits of the CHE:
 
 ### Plan of Action
 
-The estimated capital cost of a working prototype greatly exceeds the means of the [CHE team](/about) to demonstrate the functionality of the CHE and so we intend to to enter the recently launched [$100M X-Prize for Carbon Removal as sponsored by Elon Musk](https://www.xprize.org/prizes/elonmusk), which provides the ideal means to develop and showcase the Convective Heat Engine.
+The estimated capital cost of a working prototype greatly exceeds the means of the [CHE team](/about) to demonstrate the functionality of the CHE and so we intend to enter the recently launched [$100M X-Prize for Carbon Removal as sponsored by Elon Musk](https://www.xprize.org/prizes/elonmusk), which provides the ideal means to develop and showcase the Convective Heat Engine.
 
 {{< youtube "BN88HPUm6j0" >}}
 
