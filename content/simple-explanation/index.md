@@ -45,7 +45,7 @@ The goal with what follows is to connect elements of the CHE to the Hot Air Ball
 ## The Rope
 - The air in the Balloon (top section of CUT) is rising up.  The air in the Basket (bottom section of CUT) is heavier than ambient and tends to sink.  The sides of the CUT are air tight and do not allow ingress of surrounding air.  A low pressure region is established between the rising air in the Balloon and the heavier air in the Basket.  This low pressure draws the heavier air of the Basket up with the rising air of the Balloon. The fabric sides of the CUT maintain the integrity of the low pressure region and accordingly serve as the Rope.
 
-![Figure 1](/images/se-balloon.png)
+![Figure 1](/images/se-balloon-hd.jpg)
 
 Now, having shown that it is possible to create convective uplift using ground level heat transferred to a higher altitude, and that such convective uplift can lead to further cooling within a CUT, we can show you with the following diagram that CUTs can be coupled together consecutively to create even further cooling.  The more CUTs that are coupled together, the more cooling is achieved.
 
