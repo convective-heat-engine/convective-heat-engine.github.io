@@ -25,7 +25,7 @@ By continuously removing surface heat from the planet, improving power generatio
 The major benefits of the CHE:
 - Continuous high-volume fresh water supply anywhere in the world
 - Plant growth in arid regions of the planet
-- CO2 removal from the atmosphere in large quantities
+- CO2 removal from the atmosphere in large quantities by sequestration via new forest growth in transformed deserts
 - Improved power generation efficiencies
 - Stabilised planet temperatures
 
