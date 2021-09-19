@@ -47,6 +47,8 @@ The goal with what follows is to connect elements of the CHE to the Hot Air Ball
 
 ![Figure 1](/images/se-balloon-hd.jpg)
 
+## Presentation
+
 Now, having shown that it is possible to create convective uplift using ground level heat transferred to a higher altitude, and that such convective uplift can lead to further cooling within a CUT, we can show you with the following presentation that CUTs can be coupled together consecutively to create even further cooling.  The more CUTs that are coupled together, the more cooling is achieved.
 
 {{< vimeo "609148617" >}}
