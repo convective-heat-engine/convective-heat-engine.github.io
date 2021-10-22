@@ -6,7 +6,7 @@ bookToc: true
 
 ## Convective Heat Engine
 
-### Proposed Solution to Climage Change
+### Proposed Solution to Climate Change
 
 ![Transform the Desert](/images/desert-to-green-space.gif)
 
