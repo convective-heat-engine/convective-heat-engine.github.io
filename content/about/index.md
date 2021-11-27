@@ -1,6 +1,6 @@
 ## Jason Delport
 ### Founder
-[Email](jasondelport8@gmail.com)
+[Email](mailto:jasondelport8@gmail.com)
 
 ## Dominic Delport
 ### Co-Founder
