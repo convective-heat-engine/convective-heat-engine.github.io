@@ -1,4 +1,5 @@
 baseURL = "http://example.org/"
+googleAnalytics = "G-R8DF74XFGZ"
 languageCode = "en-us"
 title = "Convective Heat Engine"
 theme = "book"
