@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://convective-heat-engine.github.io/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://convective-heat-engine.github.io/contact/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/proposal/</loc>
+    <loc>https://convective-heat-engine.github.io/proposal/</loc>
   </url><url>
-    <loc>http://example.org/proposal/background/</loc>
+    <loc>https://convective-heat-engine.github.io/proposal/background/</loc>
   </url><url>
-    <loc>http://example.org/proposal/description/</loc>
+    <loc>https://convective-heat-engine.github.io/proposal/description/</loc>
   </url><url>
-    <loc>http://example.org/proposal/description/appendix-1/</loc>
+    <loc>https://convective-heat-engine.github.io/proposal/description/appendix-1/</loc>
   </url><url>
-    <loc>http://example.org/proposal/description/appendix-2/</loc>
+    <loc>https://convective-heat-engine.github.io/proposal/description/appendix-2/</loc>
   </url><url>
-    <loc>http://example.org/proposal/description/appendix-3/</loc>
+    <loc>https://convective-heat-engine.github.io/proposal/description/appendix-3/</loc>
   </url><url>
-    <loc>http://example.org/proposal/description/appendix-4/</loc>
+    <loc>https://convective-heat-engine.github.io/proposal/description/appendix-4/</loc>
   </url><url>
-    <loc>http://example.org/proposal/description/appendix-5/</loc>
+    <loc>https://convective-heat-engine.github.io/proposal/description/appendix-5/</loc>
   </url><url>
-    <loc>http://example.org/proposal/description/</loc>
+    <loc>https://convective-heat-engine.github.io/proposal/description/</loc>
   </url><url>
-    <loc>http://example.org/proposal/introduction/</loc>
+    <loc>https://convective-heat-engine.github.io/proposal/introduction/</loc>
   </url><url>
-    <loc>http://example.org/simple-explanation/</loc>
+    <loc>https://convective-heat-engine.github.io/simple-explanation/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/simple-principles/</loc>
+    <loc>https://convective-heat-engine.github.io/simple-principles/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://convective-heat-engine.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/proposal/concept-summary/</loc>
+    <loc>https://convective-heat-engine.github.io/proposal/concept-summary/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://convective-heat-engine.github.io/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://convective-heat-engine.github.io/tags/</loc>
   </url>
 </urlset>

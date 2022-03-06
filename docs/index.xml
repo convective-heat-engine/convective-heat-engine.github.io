@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Overview on Convective Heat Engine</title>
-    <link>http://example.org/</link>
+    <link>https://convective-heat-engine.github.io/</link>
     <description>Recent content in Overview on Convective Heat Engine</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://convective-heat-engine.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://example.org/about/</link>
+      <link>https://convective-heat-engine.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://convective-heat-engine.github.io/about/</guid>
       <description>Jason Delport #  Founder #  Email
 Dominic Delport #  Co-Founder #  Gavin Palmer #  Information Technology #  LinkedIn
 Michael Heron #  Concept Demonstration #  Carl Niezen #  Animations #  </description>
@@ -19,10 +19,10 @@ Michael Heron #  Concept Demonstration #  Carl Niezen #  Animations #  </descrip
     
     <item>
       <title></title>
-      <link>http://example.org/contact/</link>
+      <link>https://convective-heat-engine.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/contact/</guid>
+      <guid>https://convective-heat-engine.github.io/contact/</guid>
       <description>Come get in touch on our public chat server:
 Discord
 Email</description>
@@ -30,29 +30,29 @@ Email</description>
     
     <item>
       <title></title>
-      <link>http://example.org/proposal/background/</link>
+      <link>https://convective-heat-engine.github.io/proposal/background/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/proposal/background/</guid>
+      <guid>https://convective-heat-engine.github.io/proposal/background/</guid>
       <description>Background #  If the problem resides in changes to the atmosphere, a lasting solution must be directed towards this source. The primary driver of climate change is deemed to be increases in CO2 concentrations in the atmosphere. This leads to a reduction in infra-red (IR) radiation to space, resulting in a slight warming of the atmosphere. This warming leads to the atmosphere having an increased capacity to hold water vapor, which is a more potent greenhouse gas (GHG) than CO2, amplifying the problem of slowing the IR radiation of surface heat.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/proposal/description/appendix-1/</link>
+      <link>https://convective-heat-engine.github.io/proposal/description/appendix-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/proposal/description/appendix-1/</guid>
+      <guid>https://convective-heat-engine.github.io/proposal/description/appendix-1/</guid>
       <description>Appendix I – Urbanization Implications #  Global population is trending towards increasing urbanization, with some 55% of the global population living in urbanized locales as of 2018  \({[^3]}\)  , with the recent urbanization rate being around 800 million people per decade.
 This trend, coupled with a summer Surface Urban Heat Island (SUHI) effect of 1.9°C and winter SUHI of 0.87°C (USA results \({[^4]}\)  ) demonstrates that the majority of humans are living in environments that are warmer than the natural surroundings.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/proposal/description/appendix-2/</link>
+      <link>https://convective-heat-engine.github.io/proposal/description/appendix-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/proposal/description/appendix-2/</guid>
+      <guid>https://convective-heat-engine.github.io/proposal/description/appendix-2/</guid>
       <description>Appendix II - Relevant Atmospheric Processes #  Heat flux through the atmosphere as summarized in Kiehl, Trenberth (2009)  \({[^6]}\)  
 Surface heat is transported vertically by the following means: reflection, thermals, evapotranspiration and net difference between surface radiation and back radiation.
 The direct surface heat transfer processes relevant to this proposal are thermals and evapotranspiration. Back radiation can be affected over a longer timeframe by the improvements to the efficiency of photosynthetic processes as a result of the deployment of the technology proposed herein.</description>
@@ -60,10 +60,10 @@ The direct surface heat transfer processes relevant to this proposal are thermal
     
     <item>
       <title></title>
-      <link>http://example.org/proposal/description/appendix-3/</link>
+      <link>https://convective-heat-engine.github.io/proposal/description/appendix-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/proposal/description/appendix-3/</guid>
+      <guid>https://convective-heat-engine.github.io/proposal/description/appendix-3/</guid>
       <description>Appendix III – Case Study Calculations #  The following lists the assumptions built into the Case Study modeled in an Excel spreadsheet (not included here), as well as the logic used in developing the model calculations.
 Altitude – Sea Level
 Nominal Height of Structure – 1000m
@@ -74,57 +74,57 @@ Hexagonal CUTs, Distance across Flats – 31.</description>
     
     <item>
       <title></title>
-      <link>http://example.org/proposal/description/appendix-4/</link>
+      <link>https://convective-heat-engine.github.io/proposal/description/appendix-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/proposal/description/appendix-4/</guid>
+      <guid>https://convective-heat-engine.github.io/proposal/description/appendix-4/</guid>
       <description>Appendix IV - Power Generation #  The majority of central electrical power generation is done by thermal plant, where heat energy is converted to electric power. The heat energy is generally used to raise the temperature of a working fluid (typically steam), and consequently its pressure. This high-pressure working fluid is then passed through a turbine coupled to an electrical generator. The energy available to rotate the electrical generator is a function of the turbine input and output pressures of the working fluid.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/proposal/description/appendix-5/</link>
+      <link>https://convective-heat-engine.github.io/proposal/description/appendix-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/proposal/description/appendix-5/</guid>
+      <guid>https://convective-heat-engine.github.io/proposal/description/appendix-5/</guid>
       <description>Appendix V – Global Warming / Climate Change Implication #  The intermittency of wind and solar power plants is well known. Other deleterious effects include night time warming downstream from wind farms  \({[^9]}\)   and the solar power heat island effect \({[^{10}]}\)  .
 The proposed CHE, in contrast, offers potentially stable power delivery as well as continuous cooling as a result of greatly increased surface heat transport up the atmospheric column regardless of time of day.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/proposal/description/</link>
+      <link>https://convective-heat-engine.github.io/proposal/description/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/proposal/description/</guid>
+      <guid>https://convective-heat-engine.github.io/proposal/description/</guid>
       <description>Description of the Convective Head Engine (CHE) #  Convection in Water (Incompressible Fluid) v Convection in Air (Compressible Fluid)
 A vertical column of water instantiated in the atmosphere thermally separates in the opposite direction to the atmosphere. Buoyancy forces result in the warmest water rising to the top of the column and coldest sinking to the bottom, whereas the atmosphere has the warmest air at the surface and coldest air at altitude.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/proposal/introduction/</link>
+      <link>https://convective-heat-engine.github.io/proposal/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/proposal/introduction/</guid>
+      <guid>https://convective-heat-engine.github.io/proposal/introduction/</guid>
       <description>Introduction #  The climate /energy nexus has received much attention in recent decades. The concern has hinged around a rise in measured atmospheric CO2 levels that has coincided with a rise in average atmospheric temperatures. Concomitant with these trends has been an increase in urbanization, with some 55%  \({[^1]}\)   of the global population living in urban environments. Urban environments are subject to the urban heat island effect, which means that the majority of the world’s population is directly experiencing local warming greater than global averages.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/simple-explanation/</link>
+      <link>https://convective-heat-engine.github.io/simple-explanation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/simple-explanation/</guid>
+      <guid>https://convective-heat-engine.github.io/simple-explanation/</guid>
       <description>This Page is Under Construction #  Basic Propositions #   Warmed air pockets ascend Air at altitude is cooler than air at ground level Rising air pockets generally cool at the same rate as the surrounding air cools with altitude Warmed water that rises does not cool like air Water can be used as a heat transfer medium Using water, cooler temperatures at altitude can be transferred downard while warmer surface air temperatures can be transferred upward Geothermal heat temperatures warmer than the surface air temperatures are available by digging into the earth&amp;rsquo;s surface  In order to understand how the CHE works, we have to start from something that is generally well understood – the Hot Air Balloon.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/simple-principles/</link>
+      <link>https://convective-heat-engine.github.io/simple-principles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/simple-principles/</guid>
+      <guid>https://convective-heat-engine.github.io/simple-principles/</guid>
       <description>Carl’s Logo or landing page Gif
 In order to gain an understanding, we have described the individual scientific principles and naturally occurring phenomenon’s in simplified terms that all work together to become the CHE.
 Click on the links below to navigate to each topic of interest.
@@ -134,10 +134,10 @@ Click on the links below to navigate to each topic of interest.
     
     <item>
       <title>Concept Summary</title>
-      <link>http://example.org/proposal/concept-summary/</link>
+      <link>https://convective-heat-engine.github.io/proposal/concept-summary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/proposal/concept-summary/</guid>
+      <guid>https://convective-heat-engine.github.io/proposal/concept-summary/</guid>
       <description>Concept Summary #  A new solution to the problem of Anthropogenic Climate Change (ACC) is presented. A tall structure, called a Convective Heat Engine (CHE), is conceptualized that vertically transfers surface heat by means of convection through a column of water. The temperature profile of the atmospheric column when in thermal equilibrium – that is, when no atmospheric convection is occurring– is such that the temperature of the atmosphere decreases with altitude.</description>
     </item>
     
