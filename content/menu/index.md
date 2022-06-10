@@ -12,5 +12,6 @@ headless: true
     - [Appendix IV - Power Generation]({{< relref "/proposal/description/appendix-4/index" >}})
     - [Appendix V – Global Warming / Climate Change Implication]({{< relref "/proposal/description/appendix-5/index" >}})
 - [About]({{< relref "/about/index.md" >}})
+- [Xprize]({{< relref "/xprize/index.md" >}})
 - [Contact]({{< relref "/contact/index.md" >}})
 <br />
