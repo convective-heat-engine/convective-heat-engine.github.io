@@ -22,7 +22,8 @@ Hexagonal CUTs, Distance across Flats – 31." />
 <title>Index | Convective Heat Engine</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/book.min.508cb7d44af698c8168fb53b994c078279d27ebf22955771fcc28c795a2e3aee.css" integrity="sha256-UIy31Er2mMgWj7U7mUwHgnnSfr8ilVdx/MKMeVouOu4=" crossorigin="anonymous"><!--
+<link rel="stylesheet" href="/book.min.508cb7d44af698c8168fb53b994c078279d27ebf22955771fcc28c795a2e3aee.css" integrity="sha256-UIy31Er2mMgWj7U7mUwHgnnSfr8ilVdx/MKMeVouOu4=" crossorigin="anonymous">
+<link rel="stylesheet" href="/css/style.css"><!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
@@ -97,6 +98,16 @@ https://github.com/alex-shpak/hugo-book
     </aside>
 
     <div class="book-page">
+      <div id="warning-banner" class="warning-banner">
+  <p><strong>Notice:</strong></p>
+  <ul>
+    <li>We need help developing our pitch to investors</li>
+    <li>We need help developing our digital content like animations and 3D models</li>
+    <li>If you would like to help or know someone, please <a href="/contact">get in touch</a>.</li>
+  </ul>
+  <button id="close-banner" class="close-banner-button">✖</button>
+</div>
+
       <header class="book-header">
         
   <div class="flex align-center justify-between">
@@ -227,6 +238,43 @@ https://github.com/alex-shpak/hugo-book
 </div>
 
 <script src="js/main.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var closeButton = document.getElementById("close-banner");
+    var banner = document.getElementById("warning-banner");
+  
+    
+    function shouldShowBanner() {
+      var lastHideTime = localStorage.getItem("bannerLastHideTime");
+      if (!lastHideTime) {
+        return true; 
+      }
+      
+      var oneHour = 60 * 60 * 1000; 
+      var now = new Date().getTime();
+  
+      if (now - lastHideTime >= oneHour) {
+        return true; 
+      }
+      
+      return false;
+    }
+  
+    
+    if (shouldShowBanner()) {
+      banner.style.display = "block";
+    } else {
+      banner.style.display = "none";
+    }
+  
+    
+    closeButton.addEventListener("click", function() {
+      banner.style.display = "none";
+      localStorage.setItem("bannerLastHideTime", new Date().getTime());
+    });
+  });
+  
+</script>
 
  
         
